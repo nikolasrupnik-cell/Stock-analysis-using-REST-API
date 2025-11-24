@@ -2,7 +2,7 @@
 import requests  # For making REST API calls
 import matplotlib.pyplot as plt  # For plotting stock prices
 
-# Step 2: Set up your Alpha Vantage API key
+# Step 2: Set up the API key
 API_KEY = "WD9WKXUGGIHP1WL2"
 
 # Step 3: Define the list of stocks to track
@@ -77,3 +77,4 @@ plt.ylabel("Price ($)")
 plt.legend()
 plt.grid(True)
 plt.show()
+
