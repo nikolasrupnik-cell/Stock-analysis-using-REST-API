@@ -30,4 +30,5 @@ This Python project tracks the daily closing prices of multiple stocks (includin
 
 * Install required libraries:
 
-* pip install requests matplotlib
+* pip install requests
+* pip install matplotlib
